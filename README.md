@@ -2,7 +2,7 @@
 
 My name is Brooks Townsend, I'm a software engineer backend specializing full stack engineer. All this means is that I prefer backend technologies like Rust, Elixir, and Go. I enjoy writing TypeScript and using React on the frontend, but I strongly prefer to leave graphic design and CSS to people who know what they are doing 😄. I'm also a core maintainer for the CNCF Sandbox project [wasmCloud](https://github.com/wasmCloud/).
 
-When I'm not coding, here's some things that I enjoy 🏋🏻‍♂️🏃🏻‍♂️🥾✈️👨🏻‍🍳🐶☕️🍻🥃🕹[🥏⛳️]📖
+When I'm not coding, here's some things that I enjoy 🎧📖🏋🏻‍♂️🏃🏻‍♂️🥾✈️👨🏻‍🍳🐶☕️🍻🥃🕹[🥏⛳️]
 
 You can find me on [Twitter](https://twitter.com/brooksmtownsend), [LinkedIn](https://www.linkedin.com/in/brooks-townsend/), or on [GitHub](https://github.com/brooksmtownsend)
 
